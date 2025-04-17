@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.test {
+    color: red;
+}
+header {
+    background-color: #deb887;
+}
+header h2 {
+    font-size: 50px;
+    padding-top: 20%;
+    /* padding-right: 100px; */
+    padding-bottom: 20%;
+    /* text-align: center; */
+}
+.all {
+    background-color: #ffffff;
+}
+.menuall h2 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+.menu img {
+    /* 元width　30 % px */
+    width: auto;
+    height: auto;
+    padding-top: 3%;
+}
+.menu1 {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #deb887;
+}
+.menu2 {
+    margin: 0 0 0 auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #deb887;
+}
+.menu3 {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #deb887;
+}
+.menu4 {
+    margin: 0 0 0 auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #deb887;
+}
+
+.menu12 {
+    padding-left: 70px;
+    padding-right: 70px;
+    display: flex;
+}
+.menu34 {
+    padding-top: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: flex;
+}
+.listheading {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.list1 {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: #deb887;
+}
+
+.list2 {
+    margin: 0 0 0 auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: #deb887;
+}
+
+.oklist {
+    padding-top: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: flex;
+}
+.shop h2 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+.shopimg {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: #deb887;
+}
+.shop1 {
+    padding-left: 10%;
+}
+.shop2 {
+    padding-left: 5%;
+}
+.shop3 {
+    padding-top: 20px;
+    padding-left: 30%;
+}
+.inquiry h2 {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+.inquiry iframe {
+    width: 90%;
+    padding-left: 70px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+} 
+.inquiry h3 {
+    text-align: center;
+    padding-bottom: 10px;
+}   
+.info {
+    padding-bottom: 30px;
+}
+
+.info h4 {
+    text-align: center;
+}
+.info p {
+    text-align: center;
+}
